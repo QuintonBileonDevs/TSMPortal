@@ -1,0 +1,8 @@
+{
+  "name": "TSM - Botswana Teacher Service Management",
+  "description": "A comprehensive digital platform for managing teacher lifecycles, transfers, and performance within Botswana's education system.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
